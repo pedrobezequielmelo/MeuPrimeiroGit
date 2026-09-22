@@ -13,3 +13,5 @@ Este projeto foi desenvolvido durante o laboratório prático de Git.
 - Criada a página de produtos em HTML.
 - Utilizados commits para registrar as alterações do projeto.
 - Projeto enviado para um repositório remoto no GitHub
+
+Projeto desenvolvido para praticar Git e GitHub.
